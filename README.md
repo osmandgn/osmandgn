@@ -22,7 +22,7 @@
 
 
 
-<h2 align="center">Blogs</h2>
+<h2 align="center">Contents</h2>
 
 <table align="center" style="margin: 0px auto;">
   <tbody>
