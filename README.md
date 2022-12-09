@@ -35,7 +35,7 @@
 
 <h2 align="center">BLOGS</h2>
 
-<table>
+<table class="center">
   <tbody>
 <tr><td><a href="https://testings.dev/java-collection-nedir-collection-turleri/"><img width="140px" src="https://testings.dev/wp-content/uploads/2022/11/java-collection-nedir-kullanimi-metodlari-ornekleri.jpg"></a></td>
 <td><a href="https://testings.dev/java-collection-nedir-collection-turleri/">Java Collection Nedir? Collection Türleri </a><br/>Dec 01, 2022</td></tr>
