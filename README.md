@@ -20,6 +20,24 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 </p>
 
+<h2 align="center">Social</h2>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/osmndgn/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+
+<a href="https://osmandgn.medium.com/" target="blank">
+<img src="https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png" style="height: 3rem; background-color:white"/>
+</a>
+
+<a href="https://www.instagram.com/osmandgn/" target="blank">
+<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png/" style="height:3rem">
+</a>
+
+<a href="https://www.youtube.com/@ERehber/videos" target="blank">
+<img src="https://img.icons8.com/color/48/000000/youtube-play.png" style="height: 3rem"/>
+</a>
+
+</div>
 
 
 <h2 align="center">Contents</h2>
@@ -41,24 +59,6 @@
   </table>
 
 
-<h2 align="center">Social</h2>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/osmndgn/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
-
-<a href="https://osmandgn.medium.com/" target="blank">
-<img src="https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png" style="height: 3rem; background-color:white"/>
-</a>
-
-<a href="https://www.instagram.com/osmandgn/" target="blank">
-<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png/" style="height:3rem">
-</a>
-
-<a href="https://www.youtube.com/@ERehber/videos" target="blank">
-<img src="https://img.icons8.com/color/48/000000/youtube-play.png" style="height: 3rem"/>
-</a>
-
-</div>
 
 <h2 align="center">Stats</h2>
 
