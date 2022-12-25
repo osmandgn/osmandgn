@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://www.instagram.com/osmandgn/" target="blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png/" style="height:3rem">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png?20200512141346/" style="height:3rem"/>
 </a>
 
 <a href="https://www.youtube.com/@ERehber/videos" target="blank">
