@@ -32,11 +32,6 @@
 <a href="https://www.instagram.com/osmandgn/" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png?20200512141346/" style="height:3rem"/>
 </a>
-
-<a href="https://www.youtube.com/@ERehber/videos" target="blank">
-<img src="https://img.icons8.com/color/48/000000/youtube-play.png" style="height: 3rem"/>
-</a>
-
 </div>
 
 
